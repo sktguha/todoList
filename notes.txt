@@ -1,0 +1,27 @@
+have a list of todos 
+
++
+-
+-
+-
+-
+-
+-
+-
+
+if todo done, then mark as done
+and + button to add todo
+
+read state and sync to system
+
+make widget, 
+create new from given data
+create new from empty data
+get save data from widget and save
+
+{
+  text : "text"
+  active : true
+}
+
+for delete , delete widget and update data
